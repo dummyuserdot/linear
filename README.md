@@ -1,26 +1,4 @@
-# 📘 Linear Regression – Complete Practical Guide (A to Z)
-
-**Roman Urdu mein Complete Course – Beginner se Advanced tak**
-
----
-
-## 📑 Course Roadmap
-
-| Chapter | Topic | Difficulty |
-|---------|-------|-----------|
-| 1 | Real Client Data – Excel/CSV Understanding | ⭐ Beginner |
-| 2 | Features (X) aur Target (y) | ⭐ Beginner |
-| 3 | Train/Test Split | ⭐⭐ Beginner+ |
-| 4 | Model Training | ⭐⭐ Beginner+ |
-| 5 | Training vs Testing Score (Most Important!) | ⭐⭐⭐ Intermediate |
-| 6 | Performance Improve Karna | ⭐⭐⭐ Intermediate |
-| 7 | Evaluation Metrics | ⭐⭐⭐ Intermediate |
-| 8 | New Client Data Prediction | ⭐⭐ Beginner+ |
-| 9 | Troubleshooting Guide | ⭐⭐⭐⭐ Advanced |
-| 10 | Complete Real-World Project | ⭐⭐⭐⭐ Advanced |
-| 11 | Common Mistakes & Exercises | ⭐⭐⭐ Intermediate |
-
----
+# 📘 Linear Regression
 
 # Chapter 1: Real Client Data – Excel/CSV Understanding
 
@@ -1993,6 +1971,4 @@ Ab tum **independently** kar sakte ho:
 >
 > Model ko **genuine unseen data** par evaluate karo. Agar test score artificially high hai, to real-world mein model **fail** karega. **Honest evaluation** hi real improvement ki taraf le jaati hai.
 
-**Happy Learning! 🚀**
 
-Agar kisi bhi chapter par aur detail chahiye, ya koi specific dataset par practice karni ho, to pooch sakte ho.
